@@ -1,19 +1,12 @@
-# PAGINAWEBANGEL
+# DGC WEBSITE
 
-### DESCRIPCIÓN
-  En esta página, veremos la primera parte de mi proyecto, esta será sencilla y con HTML CSS y JAVASCRIPT
+On this website we will see some information about Dreamland GranCanaria Basketball
 
-
-
-
-
-
-
-
-
-### AGRADECIMIENTOS
+## Acknowledgment
 TIBURCIO
 
+## Author
 
-#### AUTOR
-ÁNGEL LALLAVE HERRERA
+  - **ÁNGEL LALLAVE HERRERA**
+
+
